@@ -1,0 +1,11 @@
+spring:
+  main:
+    banner-mode: "off"
+
+dynamodb.local:
+  cors: "*"
+  delayTransientStatuses: false
+  inMemory: true
+  optimizeDbBeforeStartup: false
+  port: 8000
+  sharedDb: false
