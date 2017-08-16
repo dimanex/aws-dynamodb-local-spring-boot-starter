@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dimanex</groupId>
-    <artifactId>aws-dynamodb-spring-boot-starter</artifactId>
+    <artifactId>aws-dynamodb-spring-boot-starter-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>AWS DynamoDB Spring Boot Starter</name>
-    <description>AWS DynamoDB Spring Boot Starter</description>
+    <name>AWS DynamoDB Spring Boot Starter Application</name>
+    <description>AWS DynamoDB Spring Boot Starter Application</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
