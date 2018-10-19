@@ -28,3 +28,7 @@ target
 *.iml
 /.project
 /.classpath
+
+# Eclipse
+.factorypath
+.settings/
